@@ -1,16 +1,20 @@
-## Hi there 👋
+# Mohammed Ashfaque Aslam
 
-<!--
-**ashfiaslam2014/ashfiaslam2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estimation Engineer working at the intersection of engineering operations, commercial decision-making, and practical AI automation.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estimation, tendering, quotation workflows, and invoicing for ship-repair projects
+- Small, focused automation tools that remove repetitive operational work
+- AI-assisted document processing, validation, and business workflows
+- Reliable systems with clear rules, human review, and measurable outcomes
+
+## Current direction
+
+I am exploring bespoke AI automations for UAE businesses. My approach is to begin with a real, repeated business problem, build the smallest useful solution, and only generalize after it has proven its value.
+
+Some of my most substantial tools are private because they contain employer- or client-specific workflows. Public repositories include selected technical experiments and archived learning projects.
+
+## Background
+
+I hold a B.Tech in Naval Architecture and Shipbuilding and work as an Estimation Engineer in the UAE ship-repair industry.
